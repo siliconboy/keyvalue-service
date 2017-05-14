@@ -1,0 +1,4 @@
+com/mytwitter/keyvalue/keyvalue/conf/KeyValueConfiguration.class
+com/mytwitter/keyvalue/keyvalue/health/TemplateHealthCheck.class
+com/mytwitter/keyvalue/keyvalue/resource/KeyValueResource.class
+com/mytwitter/keyvalue/keyvalue/KeyValueService.class
