@@ -1,8 +1,8 @@
-package com.mytwitter.keyvalue.keyvalue.resource;
+package com.siliconboy.keyvalue.resource;
 
 import com.codahale.metrics.annotation.Timed;
-import com.mytwitter.keyvalue.keyvalue.model.KeyValue;
-import com.mytwitter.keyvalue.keyvalue.model.KeyValueDAO;
+import com.siliconboy.keyvalue.model.KeyValue;
+import com.siliconboy.keyvalue.model.KeyValueDAO;
 import java.util.HashMap;
 import java.util.Map;
 

@@ -1,4 +1,4 @@
-package com.mytwitter.keyvalue.keyvalue.model;
+package com.siliconboy.keyvalue.model;
 
 import java.io.File;
 import java.io.FileInputStream;

@@ -1,0 +1,20 @@
+
+Instructions:
+
+0. your environment must have JRE/JDK1.8.
+
+1. start service using following command:
+   java -jar keyvalue-service-1.0-SNAPSHOT.jar server config.yml   
+
+   note:  the service port will be 8082 in localhost.  server setting can be changed in config.yml file before you start service.
+2. you may open keyvalue folder as a project in NetBean or Eclipse.  The project is based on DropWizard framework 1.0.
+   source code is under mentioned folder.
+
+3. some assumptions and missing parts:
+
+  We assume that key must not have suffix "/callback". And once callback timeout, we ignore its validation.
+  File KeyValues.dat is used as persistent store although it's not efficent.
+
+  Current code does not fully handle 5 second response time limit except basic timeout.
+   
+

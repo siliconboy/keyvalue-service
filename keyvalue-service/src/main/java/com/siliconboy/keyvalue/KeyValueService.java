@@ -1,10 +1,10 @@
-package com.mytwitter.keyvalue.keyvalue;
+package com.siliconboy.keyvalue;
 
 import io.dropwizard.Application;
 import io.dropwizard.setup.Environment;
-import com.mytwitter.keyvalue.keyvalue.conf.KeyValueConfiguration;
-import com.mytwitter.keyvalue.keyvalue.health.TemplateHealthCheck;
-import com.mytwitter.keyvalue.keyvalue.resource.KeyValueResource;
+import com.siliconboy.keyvalue.conf.KeyValueConfiguration;
+import com.siliconboy.keyvalue.health.TemplateHealthCheck;
+import com.siliconboy.keyvalue.resource.KeyValueResource;
 
 public class KeyValueService extends Application<KeyValueConfiguration> {
 

@@ -1,4 +1,4 @@
-package com.mytwitter.keyvalue.keyvalue.health;
+package com.siliconboy.keyvalue.health;
 
 import com.codahale.metrics.health.HealthCheck;
 

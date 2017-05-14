@@ -1,4 +1,4 @@
-package com.mytwitter.keyvalue.keyvalue.conf;
+package com.siliconboy.keyvalue.conf;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import io.dropwizard.Configuration;

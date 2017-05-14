@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mytwitter.keyvalue.keyvalue.model;
+package com.siliconboy.keyvalue.model;
 
 import java.io.Serializable;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package com.mytwitter.keyvalue.keyvalue.client;
+package com.siliconboy.keyvalue.client;
 
 import javax.ws.rs.client.Client;
 import javax.ws.rs.core.Response;

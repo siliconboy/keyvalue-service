@@ -1,4 +1,4 @@
-/home/orchestral/Tproject/keyvalue/keyvalue-service/src/main/java/com/mytwitter/keyvalue/keyvalue/KeyValueService.java
-/home/orchestral/Tproject/keyvalue/keyvalue-service/src/main/java/com/mytwitter/keyvalue/keyvalue/resource/KeyValueResource.java
-/home/orchestral/Tproject/keyvalue/keyvalue-service/src/main/java/com/mytwitter/keyvalue/keyvalue/health/TemplateHealthCheck.java
-/home/orchestral/Tproject/keyvalue/keyvalue-service/src/main/java/com/mytwitter/keyvalue/keyvalue/conf/KeyValueConfiguration.java
+/home/orchestral/Tproject/keyvalue/keyvalue-service/src/main/java/com/siliconboy/keyvalue/health/TemplateHealthCheck.java
+/home/orchestral/Tproject/keyvalue/keyvalue-service/src/main/java/com/siliconboy/keyvalue/KeyValueService.java
+/home/orchestral/Tproject/keyvalue/keyvalue-service/src/main/java/com/siliconboy/keyvalue/conf/KeyValueConfiguration.java
+/home/orchestral/Tproject/keyvalue/keyvalue-service/src/main/java/com/siliconboy/keyvalue/resource/KeyValueResource.java
